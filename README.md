@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Status
+
+![Deploy Next.js site to Pages](https://github.com/robertosequeira/next-tailwind-4/workflows/Deploy%20Next.js%20site%20to%20Pages/badge.svg)
+
+
 ## Getting Started
 
 First, run the development server:
